@@ -265,7 +265,7 @@ You may also report fake reviews via the Developer Support Form.
 
 You can upload as many items to the Chrome Web Store as you like, but by default, you are limited to
 having a total of 20 published items at any one time. This limit applies to the sum of your Chrome
-Apps and Chrome Extensions as a total — it is not 20 of each item. If you reach this limit, [you may
+Apps and Chrome Extensions as a total—it is not 20 of each item. If you reach this limit, [you may
 request a limit increase][105]. The Chrome Web Store staff will review your existing items and your
 developer account history, and if approved, you will be granted an increase. Please note that if
 your developer account has been suspended in the past, or you have had items taken down previously
@@ -412,7 +412,7 @@ include:
   resubmitted.
 - The item requests powerful permissions that require in-depth review.
 
-Note that all item submissions — whether for a new item or an update to an existing one — are
+Note that all item submissions—whether for a new item or an update to an existing one—are
 subject to the same review process.
 
 For more information about the unwanted software policy, see:

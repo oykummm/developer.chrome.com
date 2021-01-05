@@ -214,7 +214,7 @@ path_to_chrome.exe --lang=ko --user-data-dir=c:\chrome-profile-ko
 
 **Note:** Specifying `--user-data-dir` is optional but handy. Having one data directory per locale
 lets you run the browser in several languages at the same time. A disadvantage is that because the
-locales' data isn't shared, you have to install your extension multiple times — once per locale,
+locales' data isn't shared, you have to install your extension multiple times—once per locale,
 which can be challenging when you don't speak the language. For more information, see [Creating and
 Using Profiles][13].
 
