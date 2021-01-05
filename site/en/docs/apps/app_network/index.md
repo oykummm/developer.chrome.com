@@ -55,7 +55,7 @@ end point permission rules. For example:
 
 The syntax of socket "host-pattern" entries follows these rules:
 
-```
+```text
 <host-pattern> := <host> | ':' <port> | <host> ':' <port>
 <host> := '*' | '*.' <anychar except '/' and '*'>+
 <port> := '*' | <port number between 1 and 65535>)
